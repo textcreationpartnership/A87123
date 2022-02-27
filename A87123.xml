@@ -1,0 +1,791 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The harmonious consent of the ministers of the province within the county palatine of Lancaster, with their reverend brethren the ministers of the province of London, in their late testimonie to the trueth of Jesus Christ, and to our Solemn League and Covenant : as also against the errours, heresies, and blasphemies of these times, and the toleration of them.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 74 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87123</idno>
+            <idno type="STC">Wing H800A</idno>
+            <idno type="STC">Thomason E434_7</idno>
+            <idno type="STC">ESTC R7597</idno>
+            <idno type="EEBO-CITATION">99873156</idno>
+            <idno type="PROQUEST">99873156</idno>
+            <idno type="VID">125615</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87123)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125615)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E434[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The harmonious consent of the ministers of the province within the county palatine of Lancaster, with their reverend brethren the ministers of the province of London, in their late testimonie to the trueth of Jesus Christ, and to our Solemn League and Covenant : as also against the errours, heresies, and blasphemies of these times, and the toleration of them.</title>
+                  <author>Heyrick, Richard, 1600-1667.</author>
+               </titleStmt>
+               <extent>30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Macock, for Luke Fawne, at the sign of the Parrot in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Richard Heyrick [and 83 others].</note>
+                  <note>Annotation on Thomason copy: "March 30th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Solemn League and Covenant (1643). --  Early works to 1800.</term>
+               <term>Clergy --  England --  Lancaster --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125615:1" rendition="simple:additions"/>
+            <p>THE Harmonious Conſent OF THE MINISTERS OF THE <hi>Province</hi> within the <hi>County Palatine</hi> OF LANCASTER, With their Reverend Brethren the Miniſters of the Province of London, in their late Teſtimonie to the Trueth of Jeſus Chriſt, and to our <hi>Solemn League and Covenant:</hi> As alſo againſt the Errours, Hereſies, and Blaſ<g ref="char:EOLhyphen"/>phemies of theſe times, and the Toleration of them.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Macock,</hi> for <hi>Luke Fawne,</hi> at the ſign of the <hi>Parrot</hi> in <hi>Pauls</hi> Church-yard. MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:125615:2"/>
+            <pb n="3" facs="tcp:125615:2"/>
+            <head>THE Harmonious Conſent OF THE Miniſters of the Province WITHIN THE <hi>County Palatine of Lancaſter, &amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T is a ſaying of <hi>Solomon</hi> worthy to be writen in let<g ref="char:EOLhyphen"/>ters of gold <hi>That a friend loveth at all times, and a brother is born for adverſity</hi>
+               <note n="a" place="margin">Prov. 17 17</note>: And therefore though God need not the witneſs of men, nor truth our teſtimony, yet when his name is blaſphemed, the truth contradicted and oppoſed, the faithful friends of God, and the ſincere lovers of the truth, will (as in all ages they have done) ſtand up in his cauſe, which they then ſee in ſuch apparant hazard. In the Scriptures we read of, <hi>a cloud of witneſſes</hi>
+               <note n="b" place="margin">Heb. 12. 1.</note> that appeared for God, and bare witneſs to his truth, though for ſo doing ſome of them had <hi>tryal of cruel mockings and ſcourgings, yea moreover of bonds and impriſonments</hi>
+               <note n="c" place="margin">Heb. 11 36, 37, 38.</note>, &amp;c. In the Apoſta<g ref="char:EOLhyphen"/>ſie of the ten tribes <hi>Elijah</hi> and <hi>Eleſha</hi> were zealous for God a<g ref="char:EOLhyphen"/>gainſt the falſe Prophets of <hi>Baal. Jeremy</hi> at <hi>Jeruſalem,</hi> and <hi>E<g ref="char:EOLhyphen"/>zekiel</hi> in Captivity bore witneſs againſt the whoredoms of the houſe of <hi>Judah,</hi> as is moſt evident throughout their whole Pro<g ref="char:EOLhyphen"/>pheſies. <hi>Peter</hi> and the other Apoſtles, though commanded not to teach any more in the name of Chriſt, yet did not therefore forbear, reſolving <hi>rather to obey God then men.</hi>
+               <note n="d" place="margin">Acts 5.28.</note>. The two witneſſes propheſied one thouſand two hundred threeſcore days,
+<pb n="4" facs="tcp:125615:3"/>all the while the Gentiles did tread under-foot the holy City<note n="e" place="margin">Rov 11.2, 3.</note> 
+               <hi>Arrius</hi> met with great <hi>Athanaſius,</hi> and when the whole world wondered at it ſelf that it was become <hi>Arrian,</hi> the general Coun<g ref="char:EOLhyphen"/>cel Of <hi>Nice</hi>
+               <note n="f" place="margin">Concentrate a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tem pratie in un<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lles d<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>llus de p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lyi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ose phupt united li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ll it <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> di<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſani<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ale &amp; miru<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> it <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>vi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>um <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>npin<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tntiaplane admyab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>les, &amp;c. <hi>Binius vol. 1. Pay. 262</hi>
+               </note> met and laid an <hi>anatheme</hi> on that pernicious Hereſie. In latter times God had many in this Land, <hi>who loved not their lives unto the death</hi>
+               <note n="g" place="margin">Rev. 12 11.</note>, and gave teſtimony to the truth, not in ink but in blood, and who (though they <hi>be dead) yet ſpeak</hi>
+               <note n="h" place="margin">Heb. 11.4.</note>, as their names wil live for ever. When the Complices of <hi>Arminius</hi> grew many, ſome from the ſeveral reformed Churches convened in the general Synod of <hi>Dort,</hi> and accurſed his peſtilentious Errours. And yet more lately, <hi>The</hi>
+               <note n="i" place="margin">See the Pre. face to the Proteſtation May 5.1641</note> 
+               <hi>deſigns of Prieſts and Jeſuites, and other adherents to the Sea of Rome againſt the true reforuted Proteſtant Religion in his Majeſties Dominions eſtabliſhed, the introducing of divers innovations and ſuperſtitions into the Church, together with the driving out of multitudes out of his Majesties Dominions,</hi> amongſt other reaſons brought forth the Proteſtation, for the defence, as of other things, ſo alſo of <hi>the true reformed Proteſtant Religion expreſſed in the Doctrine of the Church of England, againſt all Popery and Popiſh innovations within this Realm;</hi> wherein not only the Parliament it ſelf was engaged, but according to the<note n="k" place="margin">See the Order of the Houſe of <hi>Commons</hi> May 5.1641. concerning the printing of the Preamble &amp; the Proteſtar'en, and ſend<g ref="char:EOLhyphen"/>ing down the Copies printed by the Knights and Burgeſſes, who were to intimate with what willingneſs all the Members of the Houſe made the Proteſtation, and further to ſign fie, that as they jutiſie the taking of it in themſelves, ſo they cannot but approve it in all ſuch as ſhal take it.</note> Order and<note n="l" place="margin">See the Voce of the Houſe, <hi>July</hi> 30.1641 wherein they declare, that what perſon ſo<g ref="char:EOLhyphen"/>ever ſhal n<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke the Proteſtation is unſit to hear Other in the Chuch or Common wealth.</note> Vote of the Houſe of Commons, the generality of the Kingdom were engaged too. <hi>The</hi>
+               <note n="m" place="margin">The Preface of the ſolenm League and Covenant, publiſhed <hi>Sept.</hi> 27.1643.</note> 
+               <hi>calling to mind, the treacherous and bloody plots, con<g ref="char:EOLhyphen"/>ſpiracies, attempts and practiſes of the enemies of God, againſt the true Reli<g ref="char:EOLhyphen"/>gion and profeſſors therof in all places, especially in theſe Kingdoms e<g ref="char:EOLhyphen"/>ver ſince the Reformation of Religion, and how much their rage, power and preſumption</hi> had been <hi>of late,</hi> and were at that <hi>time increaſed and exerciſed,</hi> did <hi>in a great tryal of affliction</hi>
+               <note n="n" place="margin">Cor. 8.2.</note>, induce theſe Kingdoms to en<g ref="char:EOLhyphen"/>ter into aſolemn League and Covenant, as for other thing, ſo al<g ref="char:EOLhyphen"/>ſo for <hi>the defence and Reformation of Religion and Extirpa<g ref="char:EOLhyphen"/>tion of Popery, Prelacy, Superstition, Hereſie, Schiſm, and Profaneſs, &amp;c.</hi> by which, <hi>ſo,</hi> the Proteſtation and Covenant, as
+<pb n="5" facs="tcp:125615:3"/>there was care taken for the better defence of the truth, ſo there was alſo a glorious confeſſion of it made before God, Angels and men. And now when men of perverſe ſpirits and <hi>corrupt minds, reprobate concerning the faith</hi> had <hi>reſiſted the truth</hi>
+               <note n="o" place="margin">2 Tim. 3.8.</note>, this ſtirred up the zeal of our reverend and godly brethren, the Miniſters of the Province of <hi>London,</hi> to give teſtimony to the truth of Jeſus Chriſt,</p>
+            <p>And therefore that we the Miniſters of Chriſt within the Pro<g ref="char:EOLhyphen"/>vince of the teſtimony of them that have gone before us, conſider<g ref="char:EOLhyphen"/>ing that we cannot but be ſenſible of the ſtrange and woful Apo<g ref="char:EOLhyphen"/>ſtaſie of ſundry from the Faith; the great oppoſition made againſt the Government and Diſcipline of Jeſus Chriſt; the ſad Diviſions and Rents in this tattered and torn Church; that an univerſal To<g ref="char:EOLhyphen"/>leration of all, even the moſt execrable doctrines, that ever were hatcht in hel or broached in the world, is earneſtly labored after by many; and that the solemn League and Covenant, ſworn with hands lifted up to the moſt high God, is with many buried in ob<g ref="char:EOLhyphen"/>livion, as it is not only neglected and ſlighted, but alſo contemned, ſcorned, derided, and moſt palpably voilated and trampled on by not a few; and that its manifeſt that God is hereby ſhamefully diſhonored, moſt highly provoked, neighbor Churches juſtly ſcandalized, all fundamental and ſaving truths in danger to be plucked up by the roots, and our ſeveral ſlocks to be poyſoned with the ſpreading Errors of the times.</p>
+            <p>The claim that is laid to truth by the three glorious perſons in the bleſſed Trinity<note n="p" place="margin">The Father is called <hi>The God of truth,</hi> Deut. 32.4. the Son <hi>the truth, Jo</hi> 14 6 the holy Ghoſt <hi>the Spirit of truth, Jo.</hi> 14.17</note>; the high price and account that is worthy to be ſet upon it, being to be bought<note n="q" place="margin">Prov. 23 23</note> though at never ſo dear a rate (how ever now a days eſteemed of with many as a refuſe commodity): the high thankfulneſs we ow to God for keeping trueth ſo chaſte and pure ſo long under an adulterous Church Go<g ref="char:EOLhyphen"/>vernment; the truſt repoſed in us by Jeſus Chriſt as his meſſengers, embaſſadors and ſteward of the myſteries of the Goſpel, of whom it is required that they ſhould be faithful<note n="r" place="margin">1 Cor. 4.1, 2</note>; the duty we ow to our ſeveral flocks as being watchmen<note n="s" place="margin">Ezek 33.7, 8.9, <hi>&amp;c.</hi>
+               </note> to give them warn<g ref="char:EOLhyphen"/>ing, and that as ſtandard-bearers we may encourage them <hi>earneſt<g ref="char:EOLhyphen"/>ly<note n="t" place="margin">lude 3.</note> to contend for the faith once delivered to the Saints;</hi> the care over their immortal ſouls redecmed<note n="u" place="margin">1 Pet, 1, 18, 19.</note> 
+               <hi>with the precious blood of Chriſt;</hi> the conſcience of our Solemn League and Covenant bind<g ref="char:EOLhyphen"/>ing
+<pb n="6" facs="tcp:125615:4"/>us in our places to endeavour the Reformation of Religion, and the Extirpation of the contrary; our fears leſt the Reformation ſo earneſtly longed for, ſo joyfully covenanted, ſo much ſuffered for, and of late times ſo much bled for, ſhould after ſo many ſharp throws, and ſuch hard labor, prove an abortive birth; the wor<g ref="char:EOLhyphen"/>thy, renowned and much encouraging example of our reverend brethren the Miniſters of the Province of <hi>London</hi> going before us (and whom to follow in witneſs bearing to the truth, and ſo far <hi>as they follow Chriſt</hi>
+               <note n="w" place="margin">1 Cor. 11.1.</note>, we count it but our duty;) The mul<g ref="char:EOLhyphen"/>titude of them that in theſe days do oppoſe the truth, by whoſe great numbers it is in danger to be born down, if contrary endevors to the utmoſt be not uſed by the united ſtrength of all that love it, to hold it up; and laſtly that we may waſh our hands from the guilt of betraying by our ſinful ſilence ſo precious: treaſure as truth is, and may not judg our poſterity unworthy thereof for our ſakes, if we ſhould not own it, plead for it, and hold it faſt: Theſe things we ſay, in this juncture of affairs, do draw us forth publikely to declare our ſelves in thoſe main things witneſſed to by our brethren in their late <hi>Teſtimony to the Truth of Jeſus Chriſt, and to our Solemn League and Covenant; As alſo againſt the Errors, Hereſies, and Blasphemies of theſe times, and the Toleration of them.</hi>
+            </p>
+            <p n="1">I. As touching the neceſſity of a platform of Doctrine of Con<g ref="char:EOLhyphen"/>feſſion of Faith, we ſhal need to ſay nothing, it having been found ſo uſeful for the Church in all Ages, from the primitive times even until now, not only that the ignorant might thereby be informed concerning the main points needful to be known and beleeved by them unto ſalvation, but alſo for the better preſer<g ref="char:EOLhyphen"/>ving of the truth, detecting and diſcovery of Hereticks and Se<g ref="char:EOLhyphen"/>ducers, and to teſtifie conſent and agreement in that one Faith.</p>
+            <p>Here only we think it needful to declare, that we do highly ap<g ref="char:EOLhyphen"/>prove of <hi>the humble Advice of the</hi> reverend and learned <hi>Aſſembly of Divines concerning a Confeſſion of Faith,</hi> judging it not only to be orthodox, ſound, ſolid, ſubſtantial, and pious, but alſo to be veryful, and in eſpecial maner uſeful for theſe times, as that which doth obviate thoſe many dangerous Errors that do ſwarm
+<pb n="7" facs="tcp:125615:4"/>in this Age; and therefore as we do <hi>aſſent unto the whole,</hi> ſo we alſo do <hi>concur with the reverend Aſſembly and our</hi>
+               <note n="x" place="margin">See the Te<g ref="char:EOLhyphen"/>to the truth of <hi>Jeſus Chriſt,</hi> page 3.</note> 
+               <hi>reverend brethren, the Miniſters of the Province of London, in our humble and hearty deſires that it may receive the approbation and ſancti<g ref="char:EOLhyphen"/>on of authority, as the joynt Confeſſion of Faith for theſe three Kingdoms in purſuance of our Covenant.</hi>
+            </p>
+            <p n="2">II. In the next place, we do hereby openly profeſs before God and the world, that we cannot but tremble and be amazed to conſider, that in a Land engaged in ſuch a Covenant; profeſſing ſo much for Reformation; made partakers of ſo many ſpecial mer<g ref="char:EOLhyphen"/>cies as <hi>England</hi> hath been; ſuch blaſphemous, execrable and hor<g ref="char:EOLhyphen"/>rid doctrines ſhould ever be publikely broached, printed, main<g ref="char:EOLhyphen"/>tained and defended as are at theſe times. We ſhal not need to recite them particularly, becauſe that work is ſo fully done already to our hands by our brethren in their late Teſtimony<note n="y" place="margin">See the Catalogue of <hi>Errors</hi> in the Teſtimony to the <hi>Truth of Jeſus Chriſt,</hi> page 5, to 23.</note>; although to the great grief and wounding of our hearts we may declare, that as they only there intended to give a <hi>ſmal taſte of their wormwood and gal</hi>
+               <note n="z" place="margin">Ibid. <hi>p</hi> 23.</note>, ſo we are aſſured their Catalogue of Errors might be much augmented, if there were any neceſſity to rake any further into the dunghil-books whence they might be gather<g ref="char:EOLhyphen"/>ed, and that many more authors might be quoted, to make it more fully evident; that there are indeed ſuch Errors and Here<g ref="char:EOLhyphen"/>ſies amongſt us as are by them recited. But here we cannot but bluſh, wonder and be aſtoniſhed at our ſtrange revolt. We re<g ref="char:EOLhyphen"/>member the times when under the Prelatical tyranny, Arminianiſm, Antinomianiſm, and the Innovations that were introduced into the worſhip of God, were generally cryed out againſt by all that party which was then eſteemed truly religious: but now, as though Errors and Hereſies had changed their natures, and were grown better becauſe the perſons profeſſing, patronizing and counte<g ref="char:EOLhyphen"/>nancing them in theſe days pretend to more piety and holineſs then was to be found in the Fautors of them heretofore, ſuch kind of Errors as would then have been abhorred by every one truly con<g ref="char:EOLhyphen"/>ſcientious: to the great diſhonor of God, ſcandal of Religion, and ſhame of our Church and Nation, do now take ſanctuary and ſhroud themſelves under the ſhadow of many of thoſe that
+<pb n="8" facs="tcp:125615:5"/>challenge to themſelves the name of the godly party.</p>
+            <p>And as we cannot but take notice of the juſt hand of God out againſt us in ſeting open the flood-gates to let in this ſea of Errour, wherewith this Church is in danger to be overflown, thereby to puniſh our former lukewarmneſs and coldneſs in defence of the truth, unprofitablenes under the means of grace, diſeſteem &amp; ſlight<g ref="char:EOLhyphen"/>ing of the truth, <hi>our not valuing as we ought the ineſtimable benefit of the Gospel; our not labouring for the purity and power thereof, and not endevouring to receive Chriſt in our hearts, nor to walk Worthy of him in our lives, which are the cauſes of other ſias and tranſgreſſions ſo much abounding amongst us;</hi> ſo we cannot but expreſs our deepeſt ſence hereof and ſorrow for the ſame; this alone being ſufficient to move us to roul our ſelves in the duſt, to rent our hearts and not our garments; as the Honor<g ref="char:EOLhyphen"/>able Houſes of Parliament hereupon ſaw cauſe both for them<g ref="char:EOLhyphen"/>ſelves and the whole Kingdom to be humbled for the <hi>growth of Errours,</hi>
+               <note n="a" place="margin">See the Ordinance of the <hi>Lords</hi> and <hi>Com<g ref="char:EOLhyphen"/>mons</hi> aſſembled in Parliament concerning the growth and ſpreading of Errors, Here<g ref="char:EOLhyphen"/>ſies, and Blaſphemles, ſeting apart a day of publikel lumili<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion to ſeek Gods aſuſtance for the ſappreſting and preventing the ſame, and which was ordered by the Lords to ba pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>med <hi>Die Jovis,</hi> Feb 4.1646. and to becamed down by the Sheriſts, and under. Sheriff, and delivered to the ſeveral Mi<g ref="char:EOLhyphen"/>niſters of very pariſn Church &amp; Chappel within this Kingdom, who were required to take notice of the ſame.</note> 
+               <hi>Hereſies and Blasphemies</hi> when they publiſhed their Ordinance' to that pur<g ref="char:EOLhyphen"/>poſe: As alſo for to ſeek <hi>Gods aſſid<g ref="char:EOLhyphen"/>ance for the ſuppreſſing and prevent<g ref="char:EOLhyphen"/>ing the ſame,</hi> and which put us in hopes that there would have been long be<g ref="char:EOLhyphen"/>fore now an application of ſome effe<g ref="char:EOLhyphen"/>ctual means of remedy. And although we cannot but from the bottom of our hearts lament, and pity all thoſe that are intangled in the dangerous and deadly ſnares fo the Errours of theſe times, yet conſidering that unſound and heretical do<g ref="char:EOLhyphen"/>ctrine <hi>Wil eat as doth a canker</hi>
+               <note n="b" place="margin">2. Tim 2.7.</note> or gangrene; and therefore doth manifeſtly tend to the razing down to the ground the true Chriſtian Faith, the extirpating of all true Religion and the power of godlineſs, the poyſoning and undoing of precions ſouls; is the peſt of a Church; the weed that wil over-grow Gods garden, and ſo choak the plants of the Lords own planting; doth highly provoke God to anger; and that the fuligmous vapors thereof which have of late riſen up out of the bottomleſs pit (as they have greatly eclipſed) ſo are they in danger to grow into thick clouds to the utter datkening of the heavens over our heads, that
+<pb n="9" facs="tcp:125615:5"/>we ſhould not behold any more the light of the glorious Goſpel of Jeſus Chriſt; we do therefore hereby teſtifie with our bre<g ref="char:EOLhyphen"/>thren<note n="c" place="margin">Teſlimony to the Touth of Jeſus Chriſt, <hi>page 33.</hi>
+               </note> 
+               <hi>to all our flocks, to all the reformed Churches, as our great diſlike of Prelacy, Eraſtianiſm, 'Brown<g ref="char:EOLhyphen"/>iſm and Independency; ſo our utter abhorrency of Antiſcrip<g ref="char:EOLhyphen"/>turiſm, Popery, Arianiſm, Socinianiſm, Arminianiſm, Anti<g ref="char:EOLhyphen"/>nomianiſm, Anabaptiſm, Libertiniſm, and Familiſm, with all ſuch like now toorife amongst us;</hi> and more particularly all thoſe Errours witneſſes againſt by our brethren, and recited by them in their Catalogue of infamous and pernicious Errours in their late Teſtimony.</p>
+            <p>And we do hereby, as the Watchmen of God and Miniſters of Jeſus Chriſt, give warning to our ſeveral flocks,<note n="d" place="margin">Mat 7 5.</note> 
+               <hi>That they take heed of the wolves in ſheeps clothing, of all</hi>
+               <note n="e" place="margin">2 Pet 2 1.</note> 
+               <hi>falſe Teachers that do privily bring in dumnable Hereſies, even denying the Lord that bought them, and bring upon themſelves ſwift de<g ref="char:EOLhyphen"/>ſtruction, and that therefore they follow not their pernicious ways, that the way of truth may not be evil ſpoken of; that</hi>
+               <note n="f" place="margin">2 Ioh. v 10, 11</note> 
+               <hi>if any man come unto them and bring not the doctrine of Chriſt, they receive him not into their houſe, neither hid him God ſpeed; that ſo they be not partakers of their evil deeds; that</hi>
+               <note n="g" place="margin">Rom. 16, 17</note> 
+               <hi>they mark them which cauſe diviſions and offences, contrary to the doctrine which the they have learned, and avoyd them:</hi> And do earneſtly exhort them in the bowels of Jeſus Chriſt, <hi>That they labour to get ſound knowledg, and to be wel grounded in the principles of the oracles of</hi>
+               <note n="h" place="margin">Heb. 5.12.</note> 
+               <hi>God (the want whereof is the cauſe why ſo many are ſe<g ref="char:EOLhyphen"/>duced and turned aſide; and being</hi>
+               <note n="i" place="margin">Eph. 4.14.</note> 
+               <hi>but children in underſtand<g ref="char:EOLhyphen"/>ing are toſſed to and fro, and carryed about with every wind of doctrine by the ſleight of men and cuning craftineſs of thoſe that lie in wait to deceive)</hi>
+               <note n="k" place="margin">Acts 17.11.</note> 
+               <hi>That they ſearch the Scriptures with thoſe good Bereans whether thoſe things they hear be ſo or no;</hi>
+               <note n="l" place="margin">1 Iohn 4.1.</note> 
+               <hi>that they beleeve not every ſpirit, but try the ſpi<g ref="char:EOLhyphen"/>rits whether they are of God, becauſe many falſe Prophets are gone out into the world;</hi>
+               <note n="m" place="margin">I Theſ. 5.20, 21</note> 
+               <hi>that they dispiſe not prophecying, but yet prove all things, and hold faſt that which is good;</hi>
+               <note n="n" place="margin">Eph 4.15.</note> 
+               <hi>and that ſpeaking the trueth in love, they grow up into Chriſt in all things which is the head:</hi> Moſt humbly beſeeching<note n="o" place="margin">Eph. 1.17.</note> 
+               <hi>the God of our Lord Jeſus Chriſt the Father of glory, that he would give unto all his people the Spirit of wiſdoms and revelation in the knowledg
+<pb n="10" facs="tcp:125615:6"/>of him:</hi>
+               <note n="p" place="margin">Eph. 3.16.</note> 
+               <hi>That he Would grant unto them according to the riches of his glory, to be ſtrengthened with might by his Spirit in the inner man, that they may be kept from every evil way of errour and ſin, and may always have ſomething to ſay for the trueth, and nothing againſt it; that all thoſe that go aſtray may be brought into the Way of trueth; and that we our ſelves, our ſeveral flocks, and the whole Church of God every where may be found blameleſs at the day of Chriſt.</hi> And however we cannot but for the preſent deplore the ſad condition of the Church of God in this Kingdom, in reſpect of the poyſonful Errours it is infected with, yet we hope that that God which often works by contraries, making ſcandals the tryal and triumph of his choſen, is for the preſent do<g ref="char:EOLhyphen"/>ing his people good by the means of Errours growth, thereby <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tying their ſincerity and love to trueth, ſtiring them up to prize it the more, and more to ſearch after it. <hi>There muſt be Hereſies,</hi> ſaith the Apoſtle, <hi>that they that are appoved may be made ma<g ref="char:EOLhyphen"/>nifeſt</hi>
+               <note n="q" place="margin">C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ.11 19</note>. Open enemies and falſe brethren (by the wiſe ordering of God, who can make ſoveraign mithridate of the fleſh of vipers) do always advantage the<note n="r" place="margin">Non <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> do <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>slo q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od neſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unt, ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d ad <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>un, qu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>readum ca<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>les, ad <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ap<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>idu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſcin<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tua<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>cos exci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>do. An<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> de vera <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>li<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cap. 8.</note> Church.</p>
+            <p>And we do further truſt, that when God, by his thus ſuffering the growth of abominable and pernicious Errours for a time, hath thereby fully accompliſhed the work he hath to do upon the hearts of his people, he that knows how to bring light out of darkneſs, order out of confuſion, good out of evil, as he made the pride and tyranny of the Prelates the means to caſt them forth, ſo alſo in much mercy to <hi>England</hi> wil at length, by this moſt unlikely and contraty means in it ſelf, make the Reformation of theſe King<g ref="char:EOLhyphen"/>doms much more thorough and glorious.</p>
+            <p n="3">III. But before we paſs on any further, we are here led to expreſs with what aſtoniſhment and horrour we are ſtruck when we ſe<g ref="char:EOLhyphen"/>riouſly weigh what endeavours are uſed for the eſtabliſhing of an univerſal Toleration of all the pernicious Errours, blaſphemous and heretical doctrines broached in theſe times, as if men would not ſin faſt enough they were biden; or as if God were not already enough diſhonored except <hi>the throne of iniquity</hi> were set up, <hi>framing miſchief by a Law</hi>
+               <note n="ſ" place="margin">Pſa. 94.20.</note>, or as if men were afraid
+<pb n="11" facs="tcp:125615:6"/>that Errour (a goodly plant to be cheriſhed) would not grow faſt enough except it were made much of; or as if it might as juſtly lay claim to the priviledg of being defended as truth it ſelf; or as if there were danger that Satan would not deſtroy ſouls enough, ex<g ref="char:EOLhyphen"/>cept he might do the ſame without all reſtraint. For our own parts, as we can never ſufficiently admire and wonder that any that have taken the Sole<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> League and Covenant, ſhould either have ſo quickly forgo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nit, or elſe imagine that the eſtabliſing a Toleration of Hereſie and Schiſm by a Law, ſhould be the way to extirpate them; ſo alſo here we ſhal take occaſion to declare what our apprehenſions are concerning ſuch a Toleration.</p>
+            <p>We have ſearched the Scriptures, looked as impartially as we could into thoſe authentick records, and yet we cannot, find that ever ſuch a thing was practiſed with approbation from God, from the time that <hi>Adam</hi> was created upon the earth unto the fealing up of the ſacred volume, the ceaſing of viſions and all new divine revelations. But on the contrary, that thoſe were blamed, reprehended and checked, that did but connive and wink at the practiſe of thoſe things that were diſpleaſing unto God<note n="t" place="margin">Rev. 2 14, 15, 20.</note>; that the not taking away the high places is mentioned to be a defect in their Reformation, of whom yet God himſelf gives teſtimony, that their hearts were upright<note n="u" place="margin">1 King. 15.14.2 Chro. 33.17.</note>; and that thoſe that quite took all a<g ref="char:EOLhyphen"/>way what ever was diſtaſteful to him, were by God himſelf highly honored and much commended<note n="w" place="margin">2 Chro 17.6. <hi>&amp;</hi> 31.1. <hi>&amp;</hi> 343, 4.</note>: And therefore we can<g ref="char:EOLhyphen"/>not ſee how ſuch a kind of Toleration as is endeavoured after in theſe times, can any ways conſiſt with a thorough Reformation according to the Word of God, there being nothing more con<g ref="char:EOLhyphen"/>trary to Reformation then Toleration.</p>
+            <p>Beſides what elſe would this be but a ſeting up the <hi>image of jealouſie that provokes to jeadousie</hi>
+               <note n="x" place="margin">Ezek. 8.3.</note>, and a puting upon God (who knows how many) corrivals.</p>
+            <p>It would be a giving Satan free liberty to ſet up his <hi>threſholds by Gods threſholds, and his poſts by Gods poſts</hi>
+               <note n="y" place="margin">Ezeck 43.3.</note>, his Dagon by Gods Ark, which how diſhonorable it would be to God and Je<g ref="char:EOLhyphen"/>ſus Chriſt his only Son, we leave all men to judg. They that ſearch diligently cannot find in it love to God, or love to his Trueth, or love to mens precious ſouls; Nay, it ſtrongly ſavours <hi>of leaving of firſt love</hi>
+               <note n="z" place="margin">Rev. 26.</note> which Chriſt hates; of lukewarmneſs and want of zeal, for which Chriſt threatens <hi>to ſpue out of his
+<pb n="12" facs="tcp:125615:7"/>month</hi>
+               <note n="a" place="margin">Rev. 3 16.</note>, of love to Errour, and an apprehenſion of ſome amiable<g ref="char:EOLhyphen"/>neſs and worth therein for which it were to be deſired, or else why ſhould there be a pleading to have it tenderly dealt with and indulged? even as it argued a love to <hi>Baal</hi> in them that pleaded for him againſt <hi>Gideon,</hi> becauſe <hi>he hand caſt down his altar and cut down the grove that was by it</hi>
+               <note n="b" place="margin">judy 6.30, 31</note>. It would be no part of <hi>Eng<g ref="char:EOLhyphen"/>lands</hi> thankfulneſs unto God, after ſo many deliverances and mercies received from him, to grant men open liberty to blaſ<g ref="char:EOLhyphen"/>pheme God at their pleaſure, <hi>wreſt the Scriptures to their own deſtruction</hi>
+               <note n="c" place="margin">Pet. 3.16.</note> trample upon his holy ordinances, ſleight and con<g ref="char:EOLhyphen"/>temn all miniſtry, deſpiſe his meſſengers, commit all maner of abomination, and for every one to go a whoring after his own inventions, which yet would be the effects of a lawleſs Tolera<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Add yet further, that a Toleration would be the puting of a ſword into a mad mans hand<note n="d" place="margin">li there were a company of mad men tuning up and down the ſtreets with knives and ſwords in their hands endeavouring to miſchieve and kil, muſt we do nothing to reſtrain them? <hi>Burroughs heat-diviſions,</hi> pag. 24. <hi>See more in him there to this purpoſe at large.</hi>
+               </note> a cup of poyſon into the hand of a child; a leting looſe of mad men with fire-brands in their hands; an appointing a City of refuge in mens conſciences for the devil to fly to<note n="e" place="margin">The devil muſt not be lot alone though he get into mens conſciences, God hath ap<g ref="char:EOLhyphen"/>pointed no City of refuge for him; if he flee to mens conſciences as <hi>Joab</hi> to the horns of the altar, he muſt be fe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cht from thence, or faln upon there; ſomething may be done to men to keep them from evil, and to re<g ref="char:EOLhyphen"/>duce them notwithſtanding the plea of their conſciences. <hi>Burroughs heart-diviſions,</hi> pag. 19, 30. <hi>See him there alſo more at large.</hi>
+               </note>; a laying of the ſtumbling block before the blind; a proclaiming liberty to the wolves to come into Chriſts fold to prey upon his lambs; a Toleration of ſoul-murther (the greateſt murther of all other,) and for the eſtabliſhing whereof, damned ſouls in hel would accurſe men on earth. Neither would it be to pro<g ref="char:EOLhyphen"/>vide for tender conſciences, but to take away all conſcience; if evil be ſuffered it wil not ſuffer good; if Errour be not forcibly kept under, it wil be ſuperiour; which we here the rather ſpeak of, to undeceive thoſe weak ones, who under the ſpecious pretext of liberty of conſcience (though falſly ſo called, and being indeed, as is wel obſerved by the general Aſ<g ref="char:EOLhyphen"/>ſembly of the Church of <hi>Scotland</hi>
+               <note n="f" place="margin">See the De<g ref="char:EOLhyphen"/>claration and Exhortation of the General Aſſembly of the Church of <hi>Scotland</hi> to their brethren in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> pag. 4.</note>, <hi>Liberty of Errour, Scandal,
+<pb n="13" facs="tcp:125615:7"/>Schiſm, Hereſie God, oppoſing the Trueth, hinder<g ref="char:EOLhyphen"/>ing Reformation, and ſeducing others</hi>) are charmed by Satan in<g ref="char:EOLhyphen"/>to a better liking of an unconſcientious Toleration. We alſo dread to think, what horrid blaſphemies would be belched out againſt God; what vile abominations would be commited; how the duries of neereſt relations would be violated; what differences and diviſions there would be in Families and Congregations, what heart-burnings would be cauſed; what diſobedience to the civil Magiſtrate that might be palliated over with a pretence of con<g ref="char:EOLhyphen"/>ſcience as wel as other opinions and practiſes; what diſturbance of the civil peace, and diſſolution of all humane ſociety<note n="g" place="margin">Pertinax <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>i<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in doctrina ſidei diſſenſio et diffractio totius ſocietatis humanae perturba<g ref="char:EOLhyphen"/>tionem ſecum trahit, ejuſque tranquillitatem ſubvertit. <hi>Synopſis purior, theolog, diſp. 50. theſ 61.</hi>
+               </note>, and of all Go<g ref="char:EOLhyphen"/>vernment in the Church and Common wealth, if once Liberty were given by a Law (which God forbid) for men to profeſs and practice what opinions they pleaſed; yea, ſin would be then commited without any re<g ref="char:EOLhyphen"/>ſtraint or ſhame, although the more liberty to ſin the greater bondage. The eſtabliſhing of a Toleration, would make us be<g ref="char:EOLhyphen"/>come the abhoring and loathing of all Nations, and being ſo palp<g ref="char:EOLhyphen"/>able a breach of our Covenant, would be the high road-way to lay <hi>Englands</hi> glory for ever in the duſt, and awaken againſt us the Lord of hoaſts to bring a ſword upon us <hi>to avenge the quarrel of his Covenant</hi>
+               <note n="h" place="margin">Lev. 26.25.</note> A Toleration added to our ſins would make us to God an intolerable burthen; he would doubtleſs think of eaſing himſelf, he would be weary of repenting. And when Je<g ref="char:EOLhyphen"/>ſus Chriſt ſhould come to judg both quick and dead, the very lukewarm Prelates whom Chriſt hath ſpued out of his mouth (who in their times would never have conſented to ſuch a Tolera<g ref="char:EOLhyphen"/>tion asis now deſired) would riſe up in judgment againſt us and condemn us. And therefore however there are ſome<note n="i" place="margin">And from brethren, in things of the mind, we look for no compulſion, but that of light and reaſon; in other things God hath put the ſword in the Parliaments hands for the terror of evil doers, and the praiſe of them that do wel, <hi>&amp;c. See a Letter ſent to the Houſe of Commons and printed</hi> 1645. <hi>going under the name of</hi> Oliver Cromwel <hi>and ſet down by Mr</hi> Rutherford <hi>in his ſurvey of the ſpiritual An<g ref="char:EOLhyphen"/>tichriſt,</hi> page 250. <hi>part. 1.</hi>
+               </note> that do conceive that in things of the mind the ſword is not put into the hands of the civil Magi<g ref="char:EOLhyphen"/>ſtrate for the terror of evil doers and the praiſe of them that do wel; Yet becauſe we judg the Toleration of all kind of opinions and profeſſions in matters of Faith (Errours therein
+<pb n="14" facs="tcp:125615:8"/>being in the number of thoſe evil works to which the Magiſtrate is to be a terror<note n="k" place="margin">Row. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 3, 4</note> to be impious and wicked, and would be a tender nurſe to give ſuck to &amp; cheriſh the foul, ugly monſtrous and miſ-ſhapen births of our times, as it would bealſo deſturctive to the Common wealth, though we ſhall eaſily grant, men are not to be puniſhed by the Magiſtrate for their internal opinions which they do not diſcover<note n="l" place="margin">
+                  <hi>his <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> adjlipulamun qui ſicuti, bemi<g ref="char:EOLhyphen"/>num <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> is eſſe ajust, it a <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> de ſide opiniones a magiſ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ain <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> eſſe <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> quanves <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> bo miman <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> non eſſe puniendas largiamur, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> tamia de rejpubluae exitialem, religlo<g ref="char:EOLhyphen"/>nis proſeljiunem a magiſtratu quibuſlibet civi<g ref="char:EOLhyphen"/>bus eſe <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>mitterdam negamus.</hi> Synopſ. pu<g ref="char:EOLhyphen"/>rior, theolog, diſput, 50. theſ 60.</note> yet with our reverend bre<g ref="char:EOLhyphen"/>thren we do here profeſs to this Church, and to all the Churches of God throughout the whole world, <hi>That we do deteſt the forementioned Toleration</hi>
+               <note n="m" place="margin">See a Yeſtimony to the Trueth of Je<g ref="char:EOLhyphen"/>sus Chriſt, page 34.</note>. And what ever others may expect to the contrary, yet we hope that God wil never ſuffer the Parliament of <hi>England</hi> ever to be ſo unmindfut of either ſolemn League and Covenant, or of their own formet Declarations and Remonſtrances<note n="n" place="margin">
+                  <hi>The bonoiable Houſe of Commans do thus remonſhare,</hi> They inſuſe into the people that we mean to aboliſh all Church Govern<g ref="char:EOLhyphen"/>ment, and leave everyman to his own fancy for the ſervice and worſhip of God— <hi>And then afterwards they dicl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re</hi> And we do here declare that it is farfiom our pur<g ref="char:EOLhyphen"/>poſe and deſire to let looſe the golden telns of Di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cipline and Government in the Church, to leave private perſons or parti<g ref="char:EOLhyphen"/>cular Congregations to take up what form of diviven ſervice they pleaſe, for we hold it requifie: that there ſhould be throughout the whole Realm a conſormity to that <hi>order</hi> which the Laws enjoyn, according to the Word of God. <hi>See the Remonſtrance of the State of the Kingdom</hi> Decemb 15.1641.</note>, Proteſtations and Profeſſions, as once to give a liltening car to ſuch as might move for ſuch a thing; and that they might be kept from being guilry of ſo great a ſin, ſhal be out earneſt prayer for them unto God con<g ref="char:EOLhyphen"/>tinually night and day.</p>
+            <p n="4">IV. And thus having expreſſed our deepeſt ſence concerning the Er<g ref="char:EOLhyphen"/>rours and Hereſies of theſe times, and the Toleration of them, which to us is ſo hateful and abominable, we are now carryed on to declare what we conceive to be the cauſe of the ſpreading of our freting leproſie and eating gangrene.</p>
+            <p>If we make inquiry into our ſelves, we muſt needs acknowledg, our not prizing trueth as we ought, not improving precious op<g ref="char:EOLhyphen"/>portunities
+<pb n="15" facs="tcp:125615:8"/>for good that have been put into our hands, the great decay of the power of godlineſs, leaving firſt love, lukewarm<g ref="char:EOLhyphen"/>neſs, ſleighting and undervaluing the means of grace, and barren<g ref="char:EOLhyphen"/>neſs under them, (faults, generally to be found in the better ſort of people) together with the many other grievous ſins that are com<g ref="char:EOLhyphen"/>mited in the Land, are juſt cauſes why we ſhould be ſcourged with ſuch a ſpiritual plague; but yet theſe hinder not but that we may alſo as truly number, the not fettling a wel ordered Church Government for ſo long a time after the old rotten building was polled down, amongſt the cauſes of the growth and ſpreading of pemicious Errours. Anarchy wil cauſe confuſion in the Church as wel as in the Common wealth. And therefore we do profeſs, that without a wel ordered Church Government, that we here may uſe the words of the general Aſ<g ref="char:EOLhyphen"/>ſembly of the Church of <hi>Scotland</hi>
+               <note n="o" place="margin">See the Exhortation of the general Aſ<g ref="char:EOLhyphen"/>ſembly of the Church of <hi>Scotland,</hi> page 12. where they uſe theſe expreſſions in refer<g ref="char:EOLhyphen"/>ence to the Preshyterial Government, which we do alſo with them fully and free<g ref="char:EOLhyphen"/>ly own.</note> 
+               <hi>We know no other proper and effectual remedy againſt the preſent dangers of Religion in this Kingdom, or for purg<g ref="char:EOLhyphen"/>ing the Church from Scandals which are deſtructive either to ſound doctrive or godlineſs;</hi> and are therefore thankful to the Parliament for ordaining of late, the ſpeedy divisſion of all the Counties of the Kingdom into Claſſical Presbyte<g ref="char:EOLhyphen"/>ries<note n="★" place="margin">See the Ordinance of <hi>Pailiament</hi> for the ſpeedy dividing and ſettling the ſeveral Counties of this Kingdom into diſtinct Claſſical Presbyteries, and orderedd to be printed <hi>Jan.</hi> 29. 1647.</note>: Diſcipline and Government in the Church being <hi>the golden Reins</hi> (whereunto this preſent Parliament hath wel likened it) ſerving to curb and reſtrain men, who are by nature <hi>like a wilde aſſes colt</hi>
+               <note n="p" place="margin">Iob 11, 12.</note> af<g ref="char:EOLhyphen"/>fecting unbridled liberty; it is the rod wherewith to correct petu<g ref="char:EOLhyphen"/>lant and froward children; the ſhepherds crook which the faithful Paſtors cannot want, but to the ſpiritual prejudice of their flocks; the keyes opening the doors for the admitance in of thoſe whom Chriſt would have to be admited into his Church, and the ſhuting out of whom he would have kept out; it is the hedg or wal to keep the ravenous beaſts from entering into Gods garden and vineyard; the means to <hi>take the ſoxes, the little ſoxes that ſpoil the vines <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi>
+               <note n="q" place="margin">Cant. 2 15.</note> and to purge out the <hi>leaven</hi> that other wiſe, though but little, yet <hi>would leaven the whole lump,</hi>
+               <note n="r" place="margin">z Cor. 5.6.</note> And if not a little Family, no Common wealth or ſociety of men can conſiſt
+<pb n="16" facs="tcp:125615:9"/>without the bond of Laws or Diſci<g ref="char:EOLhyphen"/>pline<note n="ſ" place="margin">
+                  <hi>Steri a ſociet<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> into <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> a demus quae vel <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſamiliam <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>beat comtinon in recto ſtatu ſin diſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>po<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> potell, eam eſſe multo ma<g ref="char:EOLhyphen"/>gr<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> eſſe.</hi> Calvin lto. 4. inſti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. cap. 12.1. ct 1. <hi>Si<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut use ſamiliane<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> reſpublier <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ſocietas ſine legum &amp; diſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>pl<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>do conſistere poteſt, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>leſae ch<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>li <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> in hoe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> po<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſt con<g ref="char:EOLhyphen"/>ſtare, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rto <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ini, at queidoreis legibus in adſba<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, per quae ordoejus &amp;</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>adverj<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ms, mondi ſathanae, f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aues ac m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>toc<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rvlatè conſirve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ui.</hi> Synopſis pu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or, the dog. Diſp 48. thef. 1.</note>, how can it be expected but want of Church Government will ſoon bring the Church to ruine: There<g ref="char:EOLhyphen"/>fore ſeeing Government is ſo necceſſry for the Church, we cannot but judg, that the want of it, for ſo long a time, hath been and is one main cauſe of thoſe great evils with which this ſick and languiſhing Church is ſo much diſtempered. And as we are fully per<g ref="char:EOLhyphen"/>ſwaded, with the reverend and learned Aſſembly of Divines, from clear Scripture grounds<note n="t" place="margin">Iſa 9, 6, 7 1 Tim 5.17. Act, 20 87, 28. Heb. 1; 7, 17, 24. 1 Cor, 12. 28 Mat 28. 18, 19, 30.</note> 
+               <hi>That the Lord fe<g ref="char:EOLhyphen"/>ſus as King and head of his Church hath therein appointed a Government in the hand of Church Officers diſtinit from the civil Magiſtrate</hi>
+               <note n="u" place="margin">See the humble Adivice of the Aſſembly of Divines concerning, a Confeſtion of Faith, <hi>ch.</hi> 30. <hi>ſect.</hi> 1. page 52.</note> and that it is <hi>hi upon Whoſe ſhoulders the government is — who ſits upon the throne of David and upon his Kingdom to order it and eſtabliſh it with judgment and juſtice from henceforth even for ever; having all power given to him in heaven and in earth by the Father Who raiſed him from the dead and ſet him in his own right hand— and put all things under his feet</hi>
+               <note n="w" place="margin">See the humbly Advice of the Aflem<g ref="char:EOLhyphen"/>bly concerning Church Government, page. 3</note>: So alſo with our reverend brethren the Miniſters of the Province of <hi>London</hi>
+               <note n="x" place="margin">See a Teſtimony to the Trueth of leſus Chriſt, page 24.</note> we are <hi>well aſſured</hi> that Jeſus Chriſt hath <hi>ſiufficiently revealed in his Word how he wil have his Church governed now under the New Teclament: and that the Preſbyterial Government (truly ſo called) by Preſbyteries and Synods in a due line of ſubordination of the leſſer to the greater (with procperous ſucceſs exerciſed in the beſt reformed Churches,) is that Govern<g ref="char:EOLhyphen"/>ment which is moſt agreable to the mind of jeſus Chriſt reveal<g ref="char:EOLhyphen"/>ed in Seripture.</hi>
+            </p>
+            <p>And if this Government were but fully eſtabliſhed and ſettled a throughout this Kingdom, we do not doubt but through the bleſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing of God in the ſincere and faithſul exerciſe thereof, the miſts that do at preſent overſhadow and obſcure this Church
+<pb n="17" facs="tcp:125615:9"/>would be ſoon diſpelled; the Errours that do boldy walk up and down without controul, would not dare to peep forth; or if they did, would be ſoon ſuppreſſed; looſeneſs and profaneſs would be more reſtrained, the power of godlineſs more advanced, many ſcandals prevented and removed, ſundry ſtumbling blocks would be taken out of the way of the weak, to the healing of our diviſions; and ſo the Spouſe of Chriſt, that at preſent is black over, would look with another manner of face then now ſhe doth. The experience of the reformed Churches, and eſpecially of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> confirms the ſucceſsfulneſs of this Government abundantly for the weeding up of Errours, and keeping the Church of Chirſt chaſte from being drawn aſide to commit ſpiritual fornication with the idols of the brain. We alſo our ſelves in the exerciſe of this Government, according to thoſe cautions and conſiderations premiſed by us<note n="z" place="margin">See the deliberate Reſolntion of the Miniſlers of the Goſpel within the County Palatine of <hi>Lancaſter,</hi> with their grounds &amp; cautions according to which they put into execution the Presbyterial Government upon the preſent Ordinances of Parlia<g ref="char:EOLhyphen"/>ment, <hi>Pieſton, Novemb.</hi> 17. 1646.</note> have to the praiſe and glory of God cauſe to acknowledg it in ſome meaſure ſucceſsful amongſt us in the exerciſe of that part thereof that is alrealy ſettled, for the ſtirring up of the ignorant to endeavour after more knowledg, and the reſtrain<g ref="char:EOLhyphen"/>ing of the ſcandalous; but much more fruit we apprehend would be reaped from it, if in all the parts thereof it were in its ful force eſtabliſhed. But in the mean time, we cannot but bewail that there are ſo many that are prejudiced againſt it, do aſperſe it, ſpeak<g ref="char:EOLhyphen"/>ing evil of what they underſtand not; and that ſundry do not only refuſe to ſubmit to it themſelves, but do with tooth and nail oppoſe and hinder the eſtabliſhing of it in the Kingdom. Here alſo we do further ſignifie, that we cannot only our ſelves ſubmit to what the reverend and learned Aſſembly of Divines have preſented to the Honorable Houſes of Parliament, as their humble advice concerning this Government (judging it to be very conſonant to the Word of God, and wel agreeing with the Government and Diſcipline of other reformed Churches;) but do alſo unfeignedly and heartily deſire in purſuance of our Covenant, that the three Kingdoms may be brought to that uniformity for Diſcipline and Govenment that is adviſed to there, not without much regreet diſapproving of the new-coined titles of diſtinction of a Scottish and Engliſh Presbytery.</p>
+            <p n="5">
+               <pb n="18" facs="tcp:125615:10"/> V. As for our Solemn League and Covenant for the defence of our Religion, and to endeavour Reformation, we cannot but here cal to mind the manifold encouragements given us to take it, it being (when it was by authority preſſed upon us) <hi>thought a fit and ex<g ref="char:EOLhyphen"/>cellent means to acquire the favor of almighty God towards the three Kingdoms;</hi>
+               <note n="a" place="margin">See the Or<g ref="char:EOLhyphen"/>dinance of Parliament <hi>Feb.</hi> 2.16.41. for the ta<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> the Covenant.</note> 
+               <hi>and for the better encouraging of all ſorts of perſon to take it,</hi> was by the Parliament, in the tenth inſtruction for the taking of the Covenant, <hi>recommended to the Aſſembly of Divines, to make a brief Declaration, by way of Exhortation, to all ſorts of perſons to take it, as that Which they judged no only lawful, but (all things conſidered) exceeding expedient and neceſſa<g ref="char:EOLhyphen"/>ry for all that wiſh wel to religion, the King and Kingdom, to joyn in, and to be a ſingular pledg of Gods gracious goodneſs to all the three Kingdoms,</hi> and was accordingly urged by the Aſſembly, <hi>as the ſoveraign and only means to recover an embroiled bleeding remnant</hi>
+               <note n="b" place="margin">See the Ex<g ref="char:EOLhyphen"/>hortation for the taking the Covenant, or<g ref="char:EOLhyphen"/>dered by the Houſe of Com<g ref="char:EOLhyphen"/>mons to be p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ated Feb. <hi>9.1643.</hi>
+               </note>: and yet further, that in the Declaration of both King<g ref="char:EOLhyphen"/>doms joyned in Arms, ordered to be printed <hi>Jan.</hi> 30. 1643. ſuch as would not take the Covenant are declared <hi>to be publick enemies to their Religion &amp; Country, and that they are to be cenſured &amp; pun<g ref="char:EOLhyphen"/>iſhed as profeſſed adverſaries and Malignants;</hi> all which, as they did lay ſtrong engagements on us to take it, ſo to ſee it ſo urged and preſſed, made our hearts within us to leap for joy. We remembred our ſervitude and bondage under the Prelatical Task-maſters, how the Doctrine, Diſcipline, and Worſhip had been corrupted, and this Covenant for Extirpation of Popery, Prelacy, Superſtition, Hereſie, Schiſm and Profaneſs, and for Reformation of Religion in Doctrine, Diſcipline, Government and Worſhip, not only recommended, but alſo commanded, and ſo ſtrongly preſſed by the higher powers to be taken throughout theſe three Kingdoms, did in the midſt of our troubles, at that time lying on us, mightily re<g ref="char:EOLhyphen"/>vive, and cheer our drooping ſpirits, and was as <hi>life from the dead</hi>
+               <note n="c" place="margin">Rom. 11 15.</note>. We alſo ſhal never forget, how the taking of this Cove<g ref="char:EOLhyphen"/>nant was by our ſelves preſſed and urged on our ſeveral Congrega<g ref="char:EOLhyphen"/>tions, how lolemnly it was ſworn, and what rejoycing there was at the Oath, ſundry at the taking of it weeping for joy. And when the Covenant was thus taken, we thought within our ſelves
+<pb n="19" facs="tcp:125615:10"/>that ſurely now the Crown is ſet on <hi>Englands</hi> head; we judged the day of entering into this Covenant to be <hi>Englands</hi> Coronation day; as it was the day of the gladneſs of our hearts, and wherein God wiped away the reproach caſt upon us by Separatiſts before, for the want of an expreſs Covenant. We do alſo remember, how Copies of this Covenant were ſent abroad into neighboring re<g ref="char:EOLhyphen"/>formed Churches, by whom as they were received with great joy, ſo doubtleſs then their expectations were raiſed, to ſee <hi>England</hi> ſhortly brought neerer unto them in a thorougher Reformation ac<g ref="char:EOLhyphen"/>cording to the Word of God, thoſe things being abjured which had been formerly as a partition-wal ſet up betwixt them and us. And let us never let ſlip out of our minds, how God from heaven ſmiled upon our Armies, from the firſt day of entering into this Covenant, until through the good hand of our God upon us for good, the whole power of the enemy was quite broke in pieces; and therefore if ſo ſoon as we have reaped ſuch fruit and benefit from it we caſt it away, who knows but we may be forced to take it up again to ſave our lives? And yet for all this, we wiſh we had not cauſe for to complain, that this Covenant thus ſtrongly urged, thus ſolemnly ſworn, thus bleſſed with ſucceſs, is con<g ref="char:EOLhyphen"/>temned, ſleighted, moſt palpably bro<g ref="char:EOLhyphen"/>ken, ſcorned and derided. Where an holy and religious Covenant, once made, is regarded as it ought, it wil be reverently ſpoken of, neither wil the earneſt and pathetical preſſing the not caſting it away, be any matter to quarrel or ſcoff at. And yet beſides ſundry other unſavory and reproachful expreſſions uſed, tending plainly to bring the Covenant into diſgrace (to ſay no worſe of them)<note n="d" place="margin">The firſt thing you complain of under the head of omiſſion <hi>is no leſs then the So<g ref="char:EOLhyphen"/>lemn League and Covenant,</hi> and here you do abound with your pathetick inter<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ogati<g ref="char:EOLhyphen"/>ons, to affect the hearts of thoſe whoſe eyes are in their howels, whoſe underſtand<g ref="char:EOLhyphen"/>ings are drowned &amp; ſwallowed up in their paſſions after this manner. And <hi>ſhal the Co<g ref="char:EOLhyphen"/>venant, which is as ſolemn a Vow which crea<g ref="char:EOLhyphen"/>tures on earth can make to God in heaven &amp;c.</hi> And again, <hi>ſhall the Covenant for the preſer<g ref="char:EOLhyphen"/>vation &amp;c.</hi> And again (like the Papiſts which hold up their idolatrous Euchariſt in the eyes of the people, that they may fall down to worſhip it) <hi>ſhal the Covenant which both Houſes recommended to the Aſsembly of &amp;.</hi> Yet again (as if here lay all your bait to catch gudgeons) <hi>ſhal our mutual &amp; ſolemn league and Covenant ſubſcribed by the Parlia<g ref="char:EOLhyphen"/>ments of both Kingdoms &amp;c.</hi> Once more yet (for if this ſpring fails all our ſport wil be loſt), <hi>ſhal the Covonant even with thoſe that took it be already out of date? &amp;c.</hi> Scot<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſh <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aift diſpeld, <hi>page</hi> 22.</note> ſome there are that liken the earneſt and often preſſing of not laying aſide the Cove<g ref="char:EOLhyphen"/>nant to the practiſe <hi>of the Papiſts hold<g ref="char:EOLhyphen"/>ing up the idolatrous Euchariſt in the eyes of the people that they may ſal down and Worſhip it.</hi> The Covenant binds to endeavour Reformation ac<g ref="char:EOLhyphen"/>cording
+<pb n="20" facs="tcp:125615:11"/>to the Word of God, and to bring the Churches in theſe Kingdoms to neereſt uniformity in matters of Religion; and yet the earneſt preſſing uniformity, according to the Covenant, is made by ſome<note n="e" place="margin">But ſecondly, why do you make <hi>the ſo<g ref="char:EOLhyphen"/>lemn League and Covenant,</hi> the <hi>uniicum neceſ<g ref="char:EOLhyphen"/>ſartum,</hi> the ballance of your ſanctuary, and the golden reed to meaſure your temple; you have not a tutle of <hi>the word of God;</hi> but all your cry is <hi>the ſolemn League and Cove<g ref="char:EOLhyphen"/>nant,</hi> in ſtead of the Word of God; the <hi>Jew</hi> hath his Talmud, the <hi>Turk</hi> his Alcharon, the <hi>Papiſt</hi> his Maſſ-book, the <hi>Prelate</hi> his Service-book, and muſt we have the ſolemn League and Covenant in ſtead of the Oracles of Heaven, the Word of God? Better it is that this brazen ſerpent ſhould be broken to pieces and ground to powder, then that men ſhould fall down and wor<g ref="char:EOLhyphen"/>ſhip it; It was the hypocritical Phariſees pre<g ref="char:EOLhyphen"/>tending to heaven, though minding the earth, who making voyd the Law of God did teach for doctrines the tradition of the Edders; let us not put up mans poſts, the Covenant, by Gods poſts, the holy Scrip<g ref="char:EOLhyphen"/>tures. <hi>Scottiſh miſt diſpell'd,</hi> page 26, 27.</note>, a ſubſtituting <hi>the So<g ref="char:EOLhyphen"/>lemn League and Covenant in the room of the Oracles of Heaven, aſet<g ref="char:EOLhyphen"/>ing up of mans poſts, the Covenant, by Gods poſts, the holy Scriptures; and is compared to the Jew having his Talmud, the Turk his Alcharon, the Papiſt his Maſs-Book, the Prelate his Service-Book;</hi> which kind of expreſ<g ref="char:EOLhyphen"/>ſions and compariſons, as we cannot but with greateſt indignation deteſt and abhor, ſo in that they ſet the Co<g ref="char:EOLhyphen"/>venant (that makes the Word of God the rule of all Reformation and Uni<g ref="char:EOLhyphen"/>formity that is ſworn to there) at ho<g ref="char:EOLhyphen"/>ſtile oppoſition with the Word of God, it is very evident to what pur<g ref="char:EOLhyphen"/>poſe they tend, <hi>ſc.</hi> that the covenant<g ref="char:EOLhyphen"/>ed Uniformity in matters of Religion ſhould not be inſiſted on or urged, for that <hi>were to ſet up mans polls, the Covenant, by Gods poſts, the holy Scriptures, and were to be like the Jew having his Talmud, the Turk his Alcharon, the Papiſt his Maſſ-book, &amp;c.</hi> and therefore the concluſion is, <hi>bet<g ref="char:EOLhyphen"/>ter it is that this brazen ſerpent ſhould be broken to pieces and ground to powder, then that men ſhould fall down and worſhip it, though formerly an healing benefit was received from it.</hi> Are not theſe plain evidences in what mean account the Covenant is with ſome perſons, when the earneſt preſſing the not laying it a<g ref="char:EOLhyphen"/>ſide is ſo ſcorned and ſlonted at, and when the urging of covenant<g ref="char:EOLhyphen"/>ed Uniformity wil not be endured? And is not this Covenant alſo moſt palpably broken, when not only Uniformity is cryed out againſt, but a Toleration of all kind of Errours; Hereſies and Schiſms, in ſtead of endeavours to extirpate them, is earneſtly pur<g ref="char:EOLhyphen"/>ſued by divers? to ſay nothing of the great increaſe of Errours of all kinds, the woful diviſions and rents in the Church (which ne<g ref="char:EOLhyphen"/>ver were more or greater then ſince the Covenant was taken) nor
+<pb n="21" facs="tcp:125615:11"/>of the abominable looſeneſs and profaneſs of the times; which certainly is not <hi>for to amend our lives, and each one to go before another in the example of areal Reformation,</hi> according as was profeſſed and promiſed.</p>
+            <p>For theſe things we ſee cauſe to hang down our heads and bluſh, and that our eyes ſhould run down with tears continually, as our hearts at the conſideration hereof may be aſtoniſhed and ſwallowed up with grief; Oh what diſhonor is hereby brought to God! What ſcandal given to Religion! What matter of reproach and ſcorn is this like to be unto us from our common enemy! What an unparalell'd blot is hereby laid upon this Church and Nation, never like to be waſhed out in this Age nor in the Age of our children after us! and what danger of ſwift deſtruction, if there be not repentance in time! May not the Lord complain of us, as once he did of <hi>Iſrael, When he ſlew them, then they ſought him,</hi>
+               <note n="f" place="margin">Pſa. 78.34, 35, 36, 37</note> 
+               <hi>and they returned &amp; inquired early after God, &amp; they remembred that God was their rock, and the high God their Redeemer; never<g ref="char:EOLhyphen"/>theleſs they did ſlatter him with their mouth, and they lyed unto him with their tongues, for their heart was not right with him, neither were they ſtedfaſt in his Covenant:</hi> And may it not be ſaid of us, as in the days of <hi>Joſiah</hi> it was ſaid concerning treacher<g ref="char:EOLhyphen"/>ous <hi>Judah</hi> that had made <hi>a ſolemn Covenant with God for Refor<g ref="char:EOLhyphen"/>mation</hi>
+               <note n="g" place="margin">2. Chron. 34. 31 32</note>, that ſhe <hi>turned not to God with her whole heart, but feignedly</hi>
+               <note n="h" place="margin">Ier. 3.6, 10.</note>. And beſides all this, neighbor Churches take notice of our ſtrange breach of Covenant, and are amazed at it. Our dear brethren of <hi>Scotland,</hi> who upon our taking this Covenant were induced to embark themſelves with us, and run a common hazard in the ſame cauſe, do ſadly complain<note n="i" place="margin">See the Ex<g ref="char:EOLhyphen"/>hortation of the general Aſſem<g ref="char:EOLhyphen"/>bly of the church of Scot<g ref="char:EOLhyphen"/>land to their brethren in England, <hi>page 5, 6, 7.</hi>
+               </note> of <hi>the crying ſin of breach of Covenant — and that the ſtaves of beauty and bands, covenant and brother hood are broken by many in this Kingdom,</hi> and are much caſt down in themſelves and grieved, fearing leſt they ſhould loſe the fruit of all their ſufferings and hazards for our ſakes, <hi>ſc.</hi> the eſtabliſhment of Reformation and Uniformity in Religion in theſe three Kingdoms according to the Word of God, and example of the beſt reformed Churches; and which, notwithſtanding all ſuggeſtions whatſoever to the contrary, we dare neither be ſo injurious nor uncharitable towards them; as not to judg was the main end by them propoſed when they firſt engaged with us; eſpecially when we conſider <hi>whence came the
+<pb n="22" facs="tcp:125615:12"/>firſt ſtirrings of the Wheels of Chriſts chariot in great Britain of</hi> latter times, <hi>and who it was that firſt ſounded the retreat to return from Babylon, which poſterity wil know to the ſecond coming of Je<g ref="char:EOLhyphen"/>ſus Chriſt,</hi> thoughwe ſhould not own it, of which we are modeſtly put in remembrance by one<note n="k" place="margin">Mr <hi>Rathe. ſord</hi> in his ſurvey of the ſpiri<g ref="char:EOLhyphen"/>tual Antichriſt, in the Epiſtle to the Reader <hi>page</hi> 6.</note> whoſe name is famous throughout the Chur<g ref="char:EOLhyphen"/>ches whileſt he is alive, and whoſe works will abundantly commend him to poſterity when he is dead. The things that have been already mentioned in reference to breach of Covenant, are matter of deepeſt ſorrow to our hearts, eſpecially if we do further conſider what guilt of perjury<note n="l" place="margin">Neh. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 29.</note> ſpiritualadultery<note n="m" place="margin">Jer. 50. 5.</note>, high treaſon againſt the God of heaven is hereby brought upon our Land; and that al<g ref="char:EOLhyphen"/>ſo breach of Covenant is a thing which God complains of<note n="n" place="margin">Pſa 78.10.37. 2 King. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1.15 ler. 11. 10.</note>, threatens ſeverely<note n="o" place="margin">Lev. 26.25. Deur. 29 20, 21, 22, 10, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5. let. 22.8, 9.</note>, and for which he hath inflicted ſore Judg<g ref="char:EOLhyphen"/>ments on his people in former times<note n="p" place="margin">2 King. 6.7, 15.</note>. As for our ſelves, though we cannot excuſe our ſelves from failings againſt our Covenant, for which we deſire unfeignedly to be humbled, yet conſidering that for the matter of it, there is nothing in it to be repented of, but that the ſeed of Reformation and the foundation of the houſe of the Lord is in it, and knowing alſo how ſolemnly, with hands lifted up to the moſt high God, it was taken, and that it was made with the Almighty who will not be mocked, and in his preſence <hi>who is the ſearcher of all hearts, with a true intention to perform the ſame as we ſhal anſwer at the great day when the ſe<g ref="char:EOLhyphen"/>crets of all hearts ſhal be diſcloſed;</hi> we do therefore by the grace of God reſolve, that we will not <hi>ſuffer our ſelves either directly or indirectly, by whatſoever combination, perſwaſion or terror to be ever withdrawn,</hi> either in whole or in part, <hi>from this ſacred League and Covenant,</hi> that was ſo ſolemnly and Cheerfully ſworn by us, in the time of <hi>Englands</hi> low eſtate and ſad hour of temp<g ref="char:EOLhyphen"/>tation, <hi>but ſhall, all the days of our lives, zealouſly and con<g ref="char:EOLhyphen"/>ſtamly continue therein againſt all oppoſition, and promote the ſame according to our power, againſt all lets and impediments whatſoever,</hi> being fully aſſured there is none on earth that hath that power our conſciences, as to diſcharge us at their plea<g ref="char:EOLhyphen"/>ſure, from the bond of this ſacred Oath; and that therefore the parties engaged in it, what ever ſome mens intentions might be when they took it, and how ever the common enemy (whoſe
+<pb n="23" facs="tcp:125615:12"/>prevalency and power, together with our low condition in this land before, firſt occaſion the entring into it) be now ſuppreſſed, are notwithſtanding ſtill as firmly bound to their utmoſt to endea<g ref="char:EOLhyphen"/>vour, according to their places, the performance of all the ſeveral things therein contained and ſworn, (and that yet have not received their accompliſhment becauſe the war is ended) as at the firſt taking of it. And therefore, though we can<g ref="char:EOLhyphen"/>not but heartily lament, that any ſhould be ſo ſtrangely deluded as to<note n="q" place="margin">Firſt, I do not conceive the parties to that League intended thereby to be ever<g ref="char:EOLhyphen"/>laſtingly bound each to other; the gounds of ſtriking it, being meerly occaſional for the joyning in a war to ſuppreſt the com<g ref="char:EOLhyphen"/>mon enemy, accordingly we did joyn; the enemy is (if we be wiſe) ſuppreſſed, and the was (as you ſee) ended, what ſhould the Co<g ref="char:EOLhyphen"/>venant do, but like an Almanack of the laſt year, ſhew us rather what we have already done, then what we be now to do. <hi>Set the Independency of England endeavoured to be maintained by Henry Marten, a Member of the Parliament there, &amp;c.</hi> page 11.</note> conceive ſo much, yet we do abhor that it ſhould be ſo much as once ima<g ref="char:EOLhyphen"/>gined, that when the common enimy is ſuppreſſed, this Convenant then forth<g ref="char:EOLhyphen"/>with ſhould be out of date, and but <hi>like an Almanack of the laſt year, ſhewing us rather what we have al<g ref="char:EOLhyphen"/>ready done, then what we be now to do.</hi> And becauſe, as when it was firſt enjoyed to be taken, it was thought a fit means to acquire the favour of God; ſo we now are fully perſwaded, being kept and obſerved, it would make <hi>England</hi> the delight of God, the rejoycing of al true hearted Saints at home and abroad, a coraſive and vexation to the Devil, Antichriſt, all Po<g ref="char:EOLhyphen"/>piſh prophane and Malignant perſons at home and abroad, and a mirrour of incomparable mercy. We ſhal therfore (as by the Order<note n="r" place="margin">
+                  <hi>Die veneris, Jan.</hi> 29.1644. Ordered by the Commons Aſſembled in Parliament, that the Solemn League and Covenant be on every day of Faſt and publique humili<g ref="char:EOLhyphen"/>ation, publiquely read in every Church and Congregation within this Kingdom, and that every Congregation be enjoyned to have one of the ſaid Covenants fairly prin<g ref="char:EOLhyphen"/>ted in a fair letter, in a table fitted to hang up in ſome publique place of the Church, to be read.</note> of the Honourable the Houſe of Commons, we are appointed to read it every Faſt day) in our places, by ſtir<g ref="char:EOLhyphen"/>ring up our ſeveral Congregations, to be always mindful of it our utter<g ref="char:EOLhyphen"/>moſt endeavour, that they may ob<g ref="char:EOLhyphen"/>ſerve and keep it, not expecting the bleſſing of God any longer on theſe Kingdoms, then in the remembrance of it, and adherence to it. And as with the Reverend Alſembly of Divines,<note n="ſ" place="margin">See the humble Advice of the Aſſem<g ref="char:EOLhyphen"/>bly of Divines concerning a Confeſſion of Faith, Chap. 22. Sect. 4. page. 40.</note> we are aſſured, <hi>that an oath is to be taken in the plain and common ſence of the words without equivocation, or mental reſervation,</hi> adjudging the
+<pb n="24" facs="tcp:125615:13"/>contrary opinion to lay a certain foundation for the cluding all or the, as ſuch a <hi>ſalve</hi> as this, that the Covenant may be taken in mens own ſence, hath given occaſion to ſome to except againſt the taking of it<note n="t" place="margin">See the Reaſons of the preſent judg<g ref="char:EOLhyphen"/>ment in the University of <hi>Oxford</hi> concern<g ref="char:EOLhyphen"/>ing the Covenant, &amp;c. page 22.23.</note>; ſo what ever any others may conceive to the contrary, with our Reverend Brethren, then Miniſters of the Province of <hi>London</hi>
+               <note n="u" place="margin">See a Teſtimony to the Tinen of Je<g ref="char:EOLhyphen"/>ſus Chriſt. page 28.</note>, we do firmly beleeve, <hi>That neither this nor any other oath is otherwiſe to be inter<g ref="char:EOLhyphen"/>preted, then according to the common, plain and true grammati<g ref="char:EOLhyphen"/>cal ſence of it;</hi> accounting it a moſt abſurd and wicked perverting of it, when it is ſo interpreted, as to engage, to defend and main<g ref="char:EOLhyphen"/>tain any kind of Religion whatſoever, without any inquiry at all how orthodox it is, if <hi>establiſhed by them who have all the au<g ref="char:EOLhyphen"/>thority that is viſible to chooſe for themſelves,</hi> (which is the con<g ref="char:EOLhyphen"/>ſtruction that is put upon it by ſome that profeſs to have taken<note n="w" place="margin">Secondly, what would it do were it re<g ref="char:EOLhyphen"/>newed and made perpetuall? thus much it ſaith in my opinion and no more; whenſo<g ref="char:EOLhyphen"/>ever you ſhall be violently hindred in the execution of that Religion you had amongſt you at the time of the engagoment, and ſhal require out aſſiſtance, we muſt afford it you for the removall of that violence. In like manner when we ſhal be hindred in the ex<g ref="char:EOLhyphen"/>creiſe of that Religion which we according to the Covenant ſhall eſtabliſh here, upon requeſt to you made for that effect, you are tyed to aſſiſt us. and ſo throughtout all the other clauſes reſpectively and equally, car<g ref="char:EOLhyphen"/>rying this along with you, we are hereby obliged to the reciprocall defenco of one another, according to the declaration of the party wronged in any of the particulars there compriſed, without being cavilled at, or ſcrupled by the party involied, whather your Religion be the ſame it was, or ours the ſame it ſhould be; whether the bounds of your liberties or ours be not enlarged be<g ref="char:EOLhyphen"/>yond their then line, whether your delin<g ref="char:EOLhyphen"/>quents or ours be juſtly ſo or no, for the na<g ref="char:EOLhyphen"/>tive Rights of both people being the prin<g ref="char:EOLhyphen"/>cipal, it not the only thing, we looked on when we ſwore; we do not keep our oath in preſerving thoſe rights, if we do not allow <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> maſter-right to each ſeveral people, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> by to be ſole judges within themſelves, what <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>gion they will ſet up, what kind of laws they will have, what ſize, what num<g ref="char:EOLhyphen"/>ber of Magiſtrates they hold fit to execute thoſe laws, and what offendors to be tryed by them. Hereupon, you know, we did not enquire at all how orthodox your religion was before we towed to maintain you in it, that is in the quiet poſſeſſion of it, (not in the theological trueth of it, a buſineſs for an University perhaps, not for a Kingdom) being well aſſured it was eſtabliſhed by them who had all the authority that is vi<g ref="char:EOLhyphen"/>ſible to chaſe for themſelves, and could not without apparent breach of order, and in jury to fundamentals be diſturbed in the exerciſe of what they had to choſen. <hi>See the Independen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y of England edeavoured to be maintained by</hi> Henry Marten <hi>a Member of the Parliament there, &amp;c.</hi> page 11, 12.</note> it;) God having never given ſuch an abſolute power to any men on earth, to eſtabliſh what religion they pleaſe, and to re<g ref="char:EOLhyphen"/>quire from any ſort of perſons in any Kingdom whatſoever, (who are all to render an account to God for them<g ref="char:EOLhyphen"/>ſelves) that they ſhould maintain and defend it upon ſuch eſtabliſhment, without any inquiry at all, whether it be according to the Word of God or no; as alſo, becauſe the Covenant ac<g ref="char:EOLhyphen"/>cording to this interperation might be made the bond of iniquity, to maintain &amp; defend ſuch Religions as are flat con<g ref="char:EOLhyphen"/>trary to the Word of God, as <hi>Judaiſm, Turciſm,</hi> and even <hi>Paganiſm,</hi> yea <hi>Po<g ref="char:EOLhyphen"/>pery</hi> it ſelf, although by Covenant we be expreſly bound to endeavour to ex<g ref="char:EOLhyphen"/>tirpate it; <hi>if eſtabliſhed by them who have all the authority that is viſible chooſe for themſelves.</hi>
+            </p>
+            <p>And therefore, we are ſure this can
+<pb n="25" facs="tcp:125615:13"/>be none of thoſe <hi>native rights</hi> of the people of any of theſe Kingdoms which <hi>we looked on when we ſware,</hi> and which by this Oath or Covenant we are obliged to preſerve.</p>
+            <p>Thus, fearing leſt if we had <hi>altoge<g ref="char:EOLhyphen"/>ther held our peace at this time</hi>
+               <note n="x" place="margin">Eſther 4.14.</note>, God might have ſufficiently vindicated his truth by other inſtruments, but for our baſeneſs judged us unworthy to be in<g ref="char:EOLhyphen"/>truſted any longer with ſo precious a treaſure as trueth is; we have there<g ref="char:EOLhyphen"/>fore choſen rather to approve our ſelves faithful to God, by joyning hands with our brethren (who have witneſſed ſuch a good confeſſion in giving ſuch a publike and open Teſti<g ref="char:EOLhyphen"/>mony to <hi>the trueth of Jeſus Chriſt; to our Solemn League and Covenant; and againſt the Errours, Hereſies, and Blasphemies of theſe times; and the Toleration of them;</hi>) though for ſo doing we ſhould be never ſo much perſecuted by men: then by our ſinful ſilence ſeem to be aſhamed either of Chriſt, his Trueth, or faith<g ref="char:EOLhyphen"/>ful ſervants, boldly ſtanding up in the cauſe of our great maſter, although thereby we might be aſſured to gain the whole world. And now having diſcharged our conſciences, how ever our acti<g ref="char:EOLhyphen"/>ons may be miſconſtrued by ſome, yet we knowing our witneſs is in heaven, and that God is the righteous judg; we do not doubt but the teſtimony of our conſciences, (that herein we have aimed at nothing but the glory of God, the defence of his Trueth, the health and recovery of this bleeding Church, the caſting ſome diſ<g ref="char:EOLhyphen"/>countenance upon the raging Errours of theſe times, and teſtifie our adherence to our Solemn League and Covenant,) wil abundant<g ref="char:EOLhyphen"/>ly ſupport us, againſt the worſt of evils that can befal us for wit<g ref="char:EOLhyphen"/>neſs-bearing to the Trueth.</p>
+            <closer>
+               <dateline>Subſcribed <date>the 3<hi rend="sup">d</hi> of <hi>March</hi> 1647.</date> by us.</dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Richard Heyrick</hi> Warden of <hi>Chriſt-Colledg</hi>
+                        <pb n="26" facs="tcp:125615:14"/>in <hi>Manchester.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Hollinworth</hi> Fellow of <hi>Chriſt-Colledg</hi> in <hi>Mancheſter.</hi>
+                     </item>
+                     <item>
+                        <hi>Alexander Horrocks</hi> Miniſter of the Goſpel at <hi>Deane.</hi>
+                     </item>
+                     <item>
+                        <hi>John Tilſley</hi> Paſtor of <hi>Dean.</hi>
+                     </item>
+                     <item>
+                        <hi>John Harper</hi> Paſtor of <hi>Bolton.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Goodwin</hi> Miniſter of the Goſpel at <hi>Bolton.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Benſon</hi> Miniſter of <hi>Chol<g ref="char:EOLhyphen"/>lerton.</hi>
+                     </item>
+                     <item>
+                        <hi>William Alt</hi> Min of <hi>Bury.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Bath</hi> Paſtor of <hi>Rachdal.</hi>
+                     </item>
+                     <item>
+                        <hi>William Aſsheton</hi> Paſtor of <hi>Midleton.</hi>
+                     </item>
+                     <item>
+                        <hi>John Harriſon</hi> Paſtor of <hi>Aſshton-under<g ref="char:EOLhyphen"/>line.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Pyke</hi> Paſtor of <hi>Radcliff.</hi>
+                     </item>
+                     <item>
+                        <hi>John Angier</hi> Paſtor of <hi>Denton.</hi>
+                     </item>
+                     <item>
+                        <hi>William Walker</hi> Miniſter of the Go<g ref="char:EOLhyphen"/>ſpel at <hi>Newton-heath</hi> Chappel.</item>
+                     <item>
+                        <hi>Toby Furneſſe</hi> Min. of the Goſpel.</item>
+                     <item>
+                        <hi>John Joanes</hi> Min. of <hi>Eccles.</hi>
+                     </item>
+                     <pb n="27" facs="tcp:125615:14"/>
+                     <item> 
+                        <hi>Edward Woolmer</hi> Min. of <hi>Flixton.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Gilbody</hi> Preacher at <hi>Holcome.</hi>
+                     </item>
+                     <item>
+                        <hi>Jonathan Scholefield</hi> Min. at <hi>Heywood.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Holland</hi> Min. of <hi>Ringley.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Clayton</hi> Min. of <hi>Diasbury.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Conſtantine</hi> Min. of <hi>Ouldham.</hi>
+                     </item>
+                     <item>
+                        <hi>Peter Bradſhaw</hi> Min. of <hi>Cockey.</hi>
+                     </item>
+                     <item>
+                        <hi>John Brierley</hi> Preacher at <hi>Salford.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Johnſon</hi> Min. <hi>of</hi> the Goſpel at <hi>Halſal.</hi>
+                     </item>
+                     <item>
+                        <hi>William Bell</hi> Paſtor of <hi>Hyton.</hi>
+                     </item>
+                     <item>
+                        <hi>William Dun</hi> Min. of the Goſpel at <hi>Ormeskirk.</hi>
+                     </item>
+                     <item>
+                        <hi>James Worrall</hi> Paſtor <hi>of Aughton.</hi>
+                     </item>
+                     <item>
+                        <hi>William Aſpinwal</hi> Preacher of Gods Word at <hi>Mayhall.</hi>
+                     </item>
+                     <item>
+                        <hi>John Mallinſon</hi> Min. of Gods Word at <hi>Melling.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Seddon</hi> Min. of Gods Word at <hi>Alker.</hi>
+                     </item>
+                     <item>
+                        <hi>Will, Norcot</hi> Miniſter <hi>of Weſt-Derby.</hi>
+                     </item>
+                     <pb n="28" facs="tcp:125615:15"/>
+                     <item> 
+                        <hi>Will. Ward</hi> Min. of the Goſpel at <hi>Walton.</hi>
+                     </item>
+                     <item>
+                        <hi>Nevil Kay</hi> Paſtor at <hi>VValton</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Boulton</hi> Preacher at <hi>Hale.</hi>
+                     </item>
+                     <item>
+                        <hi>John Fogge</hi> Paſtor <hi>of Liverpoole.</hi>
+                     </item>
+                     <item>
+                        <hi>Joſeph Tompſon</hi> Min. <hi>of Sephton.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Kyd</hi> Min. of <hi>Much-Crosby.</hi>
+                     </item>
+                     <item>
+                        <hi>James Bradſhaw</hi> Paſtor of the Church at <hi>Wigan.</hi>
+                     </item>
+                     <item>
+                        <hi>James Starkey</hi> Paſtor of <hi>North meoles.</hi>
+                     </item>
+                     <item>
+                        <hi>James Wood</hi> Preacher of the VVord at <hi>Aſsheton</hi> in <hi>Makerſield.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Yates</hi> Paſtor of the Church at <hi>Warrington.</hi>
+                     </item>
+                     <item>
+                        <hi>Bradbey Hayhurſt</hi> Preacher of the VVord at <hi>Leigh.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Norman</hi> paſtor of <hi>Newton.</hi>
+                     </item>
+                     <item>
+                        <hi>Timothy Smith</hi> preacher of the VVord at <hi>Rainforth.</hi>
+                     </item>
+                     <item>
+                        <hi>John Wright</hi> paſtor of <hi>Billinge.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Shaw</hi> paſtor at <hi>Holland.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Crompton</hi> Min. of the Goſpel at <hi>Aſlley.</hi>
+                     </item>
+                     <pb n="29" facs="tcp:125615:15"/>
+                     <item> 
+                        <hi>William Bagaley</hi> Min. of the Goſpel at <hi>Burtonwood.</hi>
+                     </item>
+                     <item>
+                        <hi>William Leight</hi> Preacher of the <hi>Word</hi> at <hi>Newchurch.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Mawdeſley</hi> paſtor of <hi>Ellins.</hi>
+                     </item>
+                     <item>
+                        <hi>James Hyet</hi> paſtor of <hi>Croſton.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Cranage</hi> paſtor of <hi>Brindle.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Gee</hi> Miniſter of the Goſpel at <hi>Eccleſton.</hi>
+                     </item>
+                     <item>
+                        <hi>Paul Latham</hi> paſtor of <hi>Standiſh.</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Joanes</hi> paſtor of <hi>Hoole.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Welch</hi> Min. at <hi>Chorley.</hi>
+                     </item>
+                     <item>
+                        <hi>Wil Brownſword</hi> preacher at <hi>Dugglas.</hi>
+                     </item>
+                     <item>
+                        <hi>James Crichley</hi> preacher at <hi>Penwor<g ref="char:EOLhyphen"/>tham.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Fleetwood</hi> paſtor at <hi>Kirkham.</hi>
+                     </item>
+                     <item>
+                        <hi>Iſaac Ambroſe</hi> paſtor of <hi>Preſton.</hi>
+                     </item>
+                     <item>
+                        <hi>William Addiſon</hi> Lecturer at <hi>Preſton.</hi>
+                     </item>
+                     <item>
+                        <hi>William <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ngham</hi> Miniſt at <hi>Gooſenarghe.</hi>
+                     </item>
+                     <item>
+                        <hi>Matthew Moore</hi> miniſter at <hi>Broughton.</hi>
+                     </item>
+                     <item>
+                        <hi>Chriſtopher Edmundſon</hi> paſtor at <hi>Gar<g ref="char:EOLhyphen"/>ſtang.</hi>
+                     </item>
+                     <pb n="30" facs="tcp:125615:16"/>
+                     <item> 
+                        <hi>Thomas Smith</hi> preacher at <hi>Garſtang Chappel.</hi>
+                     </item>
+                     <item>
+                        <hi>John Breres</hi> miniſter at <hi>Padiam.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Jackson</hi> paſtor at <hi>Whittington.</hi>
+                     </item>
+                     <item>
+                        <hi>Nicolas Smith</hi> paſtor of <hi>Tatham.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Shaw</hi> paſtor at <hi>Cokeram.</hi>
+                     </item>
+                     <item>
+                        <hi>James Scholecroft</hi> miniſter at <hi>Caton.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Whitehead</hi> paſtor at <hi>Halton.</hi>
+                     </item>
+                     <item>
+                        <hi>Peter Atkinſon</hi> miniſter of <hi>Ellel.</hi>
+                     </item>
+                     <item>
+                        <hi>John Jaques</hi> miniſter of <hi>Bolton.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard VValker</hi> miniſter of <hi>VVarton.</hi>
+                     </item>
+                     <item>
+                        <hi>Phillip Bennet</hi> miniſter of <hi>
+                           <g ref="char:V">Ʋ</g>lverſton.</hi>
+                     </item>
+                     <item>
+                        <hi>VVilliam Smith</hi> miniſter of <hi>over-Kellet.</hi>
+                     </item>
+                     <item>
+                        <hi>Brian VVillan</hi> Miniſter of <hi>Coulton.</hi>
+                     </item>
+                     <item>
+                        <hi>Peter Smith</hi> miniſter of <hi>Shireſhead.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Aſton</hi> miniſter of <hi>Claughton.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Demy</hi> miniſter of <hi>VVireſdalle.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Fawcet</hi> miniſter at <hi>Overton.</hi>
+                     </item>
+                     <item>
+                        <hi>VVill. Garner</hi> Preacher of the Goſpel.</item>
+                     <item>
+                        <hi>John Smith</hi> Miniſter of <hi>Melling.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>
+               <hi>Errata.</hi> Page 4. line 10. for <hi>accurſed</hi> read <hi>condemned.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:125615:16"/>
+         </div>
+      </back>
+   </text>
+</TEI>
